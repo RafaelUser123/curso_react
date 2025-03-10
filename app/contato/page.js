@@ -17,6 +17,7 @@ function App() {
   // Estados para armazenar os valores dos campos
   const [nome, setNome] = useState('');
   const [mensagem, setMensagem] = useState('');
+  
 
   // Função para exibir a notificação
   const displayMsg = () => {
