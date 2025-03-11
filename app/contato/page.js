@@ -70,7 +70,7 @@ function App() {
       </form>
 
       {/* Container para exibição de notificações */}
-      <ToastContainer />
+    
 
       {/* Botão para exibir uma notificação personalizada */}
       <button onClick={displayMsg}>Click me</button>

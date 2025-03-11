@@ -21,3 +21,28 @@ Para criar um novo projeto em React usando NextJS, faça:
 2. Marcar para _não_ usar _TypeScript_. Os demais deixar padrão.
 
 Para rodar um projeto em React basta rodar o comando `npm run dev`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
